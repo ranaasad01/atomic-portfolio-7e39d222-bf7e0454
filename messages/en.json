@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Home",
+    "work": "Work",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Hire Me"
+  },
+  "footer": {
+    "tagline": "Designing experiences that feel inevitable. Based in San Francisco, open to remote.",
+    "available": "Available for new projects",
+    "navigation": "Navigation",
+    "connect": "Connect",
+    "copyright": "© {year} {name}. All rights reserved.",
+    "backToTop": "Back to top"
+  },
+  "hero": {
+    "greeting": "Product Designer",
+    "headline": "I design products people actually want to use.",
+    "subheadline": "Crafting thoughtful digital experiences at the intersection of form, function, and human behavior.",
+    "cta_primary": "View My Work",
+    "cta_secondary": "Get in Touch",
+    "scroll_hint": "Scroll to explore",
+    "available": "Available for freelance & full-time",
+    "cta1": "View Work",
+    "cta2": "Get in Touch",
+    "headline1": "Asad Rana",
+    "headline2": "Product Designer",
+    "headline3": "I design digital products that people love to use.",
+    "tagline": "Thoughtful design, shipped fast."
+  },
+  "work": {
+    "label": "Selected Work",
+    "heading": "Projects that ship.",
+    "subheading": "A curated selection of product design work spanning mobile apps, web platforms, and design systems.",
+    "view_case": "View Case Study",
+    "view_all": "See All Projects"
+  },
+  "about": {
+    "label": "About Me",
+    "heading": "Design is thinking made visible.",
+    "bio_1": "I'm Asad Rana, a product designer with 6 years of experience building digital products for startups and scale-ups. I specialize in turning complex problems into elegant, intuitive interfaces.",
+    "bio_2": "Before going independent, I led design at two Series B startups and shipped products used by over 2 million people. I care deeply about craft, systems thinking, and the details that make a product feel alive.",
+    "skills_label": "Core Skills",
+    "experience_label": "Experience",
+    "years": "6+ Years",
+    "years_sub": "Professional Experience",
+    "projects": "40+",
+    "projects_sub": "Products Shipped",
+    "users": "2M+",
+    "users_sub": "People Reached",
+    "badge_label": "About",
+    "bio1": "I'm a product designer obsessed with crafting intuitive, beautiful digital experiences. With 6+ years spanning startups and scale-ups, I've shipped products used by millions.",
+    "bio2": "I believe great design solves real problems. I thrive at the intersection of strategy, research, and pixel-perfect execution."
+  },
+  "contact": {
+    "label": "Get in Touch",
+    "heading": "Let's build something great.",
+    "subheading": "Whether you have a project in mind or just want to say hello, my inbox is always open.",
+    "email_cta": "Send an Email",
+    "or": "or find me on",
+    "availability": "Currently available for freelance and full-time opportunities.",
+    "body": "Let's talk about your next project or just say hello.",
+    "field_email": "Email",
+    "field_message": "Message",
+    "field_name": "Name",
+    "placeholder_email": "you@example.com",
+    "placeholder_message": "Tell me about your project...",
+    "placeholder_name": "Your name",
+    "submit": "Send",
+    "success_body": "Thanks for reaching out. I'll get back to you soon.",
+    "success_title": "Message sent"
+  },
+  "testimonials": {
+    "heading": "What people say",
+    "label": "Testimonials"
+  }
+}

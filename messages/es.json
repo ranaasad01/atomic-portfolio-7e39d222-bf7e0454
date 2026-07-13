@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "work": "Trabajo",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "cta": "Contratarme"
+  },
+  "footer": {
+    "tagline": "Diseñando experiencias que se sienten inevitables. Basado en San Francisco, abierto a trabajo remoto.",
+    "available": "Disponible para nuevos proyectos",
+    "navigation": "Navegación",
+    "connect": "Conectar",
+    "copyright": "© {year} {name}. Todos los derechos reservados.",
+    "backToTop": "Volver al inicio"
+  },
+  "hero": {
+    "greeting": "Diseñador de Productos",
+    "headline": "Diseño productos que la gente realmente quiere usar.",
+    "subheadline": "Creando experiencias digitales reflexivas en la intersección de forma, función y comportamiento humano.",
+    "cta_primary": "Ver Mi Trabajo",
+    "cta_secondary": "Ponte en Contacto",
+    "scroll_hint": "Desplázate para explorar",
+    "available": "Disponible para freelance y tiempo completo",
+    "cta1": "Ver Trabajo",
+    "cta2": "Ponte en Contacto",
+    "headline1": "Asad Rana",
+    "headline2": "Diseñador de Productos",
+    "headline3": "Diseño productos digitales que la gente ama usar.",
+    "tagline": "Diseño reflexivo, entregado rápido."
+  },
+  "work": {
+    "label": "Trabajo Seleccionado",
+    "heading": "Proyectos que se lanzan.",
+    "subheading": "Una selección curada de trabajo de diseño de productos que abarca aplicaciones móviles, plataformas web y sistemas de diseño.",
+    "view_case": "Ver Caso de Estudio",
+    "view_all": "Ver Todos los Proyectos"
+  },
+  "about": {
+    "label": "Acerca de Mí",
+    "heading": "El diseño es el pensamiento hecho visible.",
+    "bio_1": "Soy Asad Rana, diseñador de productos con 6 años de experiencia construyendo productos digitales para startups y empresas en crecimiento. Me especializo en convertir problemas complejos en interfaces elegantes e intuitivas.",
+    "bio_2": "Antes de trabajar de forma independiente, lideré el diseño en dos startups Series B y lancé productos utilizados por más de 2 millones de personas. Me importa profundamente la artesanía, el pensamiento sistémico y los detalles que hacen que un producto se sienta vivo.",
+    "skills_label": "Habilidades Principales",
+    "experience_label": "Experiencia",
+    "years": "6+ Años",
+    "years_sub": "Experiencia Profesional",
+    "projects": "40+",
+    "projects_sub": "Productos Lanzados",
+    "users": "2M+",
+    "users_sub": "Personas Alcanzadas",
+    "badge_label": "Acerca de",
+    "bio1": "Soy diseñador de productos obsesionado con crear experiencias digitales intuitivas y hermosas. Con más de 6 años en startups y empresas en crecimiento, he lanzado productos utilizados por millones.",
+    "bio2": "Creo que el buen diseño resuelve problemas reales. Prospero en la intersección de estrategia, investigación y ejecución pixel-perfect."
+  },
+  "contact": {
+    "label": "Ponte en Contacto",
+    "heading": "Construyamos algo increíble.",
+    "subheading": "Ya sea que tengas un proyecto en mente o solo quieras saludar, mi bandeja de entrada siempre está abierta.",
+    "email_cta": "Enviar un Correo",
+    "or": "o encuéntrame en",
+    "availability": "Actualmente disponible para oportunidades de freelance y tiempo completo.",
+    "body": "Hablemos sobre tu próximo proyecto o solo saluda.",
+    "field_email": "Correo",
+    "field_message": "Mensaje",
+    "field_name": "Nombre",
+    "placeholder_email": "tu@ejemplo.com",
+    "placeholder_message": "Cuéntame sobre tu proyecto...",
+    "placeholder_name": "Tu nombre",
+    "submit": "Enviar",
+    "success_body": "Gracias por comunicarte. Te responderé pronto.",
+    "success_title": "Mensaje enviado"
+  },
+  "testimonials": {
+    "heading": "Qué dice la gente",
+    "label": "Testimonios"
+  }
+}
